@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# **THIS SITE IS CURRENTLY UNDER CONSTRUCTION!**
+
+---
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
