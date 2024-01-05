@@ -40,7 +40,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 ## Example of script working in Neovim
 
-![screenshot2](/rastaldev.github.io/assets/images/screenshot2.gif)
+![screenshot2](/rastaldev.github.io/assets/images/screenshot.gif)
 
 ---
 
