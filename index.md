@@ -26,7 +26,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 ## Example of output when script is run in a terminal emulator
 
-![screenshot1](https://github.com/RastalDev/prayer_times/raw/master/example.png)
+![screenshot1](/rastaldev.github.io/assets/images/screenshot1.png)
 
 ---
 
@@ -40,7 +40,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 ## Example of script working in Neovim
 
-![screenshot2](https://github.com/RastalDev/vim_autocorrect/raw/master/screenshot.gif)
+![screenshot2](/rastaldev.github.io/assets/images/screenshot2.gif)
 
 ---
 
@@ -54,7 +54,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 ## Example of Dracula theme in `tut`
 
-![screenshot3](https://github.com/RastalDev/dracula_tut/raw/master/screenshot.png)
+![screenshot3](/rastaldev.github.io/assets/images/screenshot3.png)
 
 Notifications blurred for privacy, random toot displayed, no endorsement implied.
 
@@ -62,5 +62,4 @@ Notifications blurred for privacy, random toot displayed, no endorsement implied
 
 This website is open source. The code for this website can be found on [GitHub](https://github.com/RastalDev/rastaldev.github.io)
 
-![badge1](https://forthebadge.com/images/featured/featured-built-with-love.svg)  [![RastalDev](https://github.com/rastaldev.png?size=50)](https://github.com/rastaldev)  
-
+![badge1](https://forthebadge.com/images/featured/featured-built-with-love.svg)  
