@@ -46,7 +46,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 # A Dracula theme for `tut`
 
-![mastodon](https://joinmastodon.org/logos/wordmark-black-text.svg)
+![mastodon](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)
 
 - `tut` is a terminal user interface for the [Mastodon](https://joinmastodon.org/) social network with vim inspired keys.
 - The `tut` repository, with full install instructions, can be found [here](https://github.com/RasmusLindroth/tut)
