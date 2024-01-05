@@ -15,7 +15,7 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 
 ---
 
-## Islamic prayer times
+# Islamic prayer times
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -24,13 +24,13 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 - Script can be modified to display the prayer times from any location.
 - Instructions and Dependencies to get the script working, can be found [here](https://github.com/RastalDev/prayer_times#necessary-python-libraries-which-must-be-installed-to-run-the-script)
 
-### Example of output when script is run in a terminal emulator
+## Example of output when script is run in a terminal emulator
 
 ![screenshot1](https://github.com/RastalDev/prayer_times/raw/master/example.png)
 
 ---
 
-## An autocorrect spelling script for Vim / Neovim
+# An autocorrect spelling script for Vim / Neovim
 
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
@@ -38,13 +38,13 @@ All projects are hosted on [my GitHub](https://github.com/rastaldev)
 - Type an incorrectly spelled word, hit `SPACE` to type the next word and the script will automatically correct the word.
 - Instructions to get the script working in Vim or Neovim, can be found [here](https://github.com/RastalDev/vim_autocorrect#to-use-the-script)
 
-### Example of script working in Neovim
+## Example of script working in Neovim
 
 ![screenshot2](https://github.com/RastalDev/vim_autocorrect/raw/master/screenshot.gif)
 
 ---
 
-## A Dracula theme for `tut`
+# A Dracula theme for `tut`
 
 ![mastodon](https://joinmastodon.org/logos/wordmark-black-text.svg)
 
