@@ -7,11 +7,19 @@ layout: default
 
 echo "Hello, my name is Rastal."
 ```
+# About
+
+![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+Computer nerd. Mostly doing Linux systems administration. Software tinkerer. Open source advocate and infosec enthusiast.
+
 # Open source software projects
 
-All projects are hosted on [my GitHub](https://github.com/rastaldev)
+All the code for my projects can be found on [my GitHub.](https://github.com/rastaldev)
 
 ![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+All these projects are for use in a terminal emulator, because that's where I spend the majority of my time. I'm not a webdev or professional software developer, but thought it would be useful to create a website just to reference my open source projects in one place. Hopefully, you find something of use to you.
 
 ---
 
@@ -61,5 +69,3 @@ Notifications blurred for privacy, random toot displayed, no endorsement implied
 ---
 
 This website is open source. The code for this website can be found on [GitHub](https://github.com/RastalDev/rastaldev.github.io)
-
-![badge1](https://forthebadge.com/images/featured/featured-built-with-love.svg)  
