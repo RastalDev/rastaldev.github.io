@@ -15,7 +15,7 @@ Computer nerd. Mostly doing Linux systems administration. Software tinkerer. Ope
 
 I'm on Mastodon:
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000773410?domain=https%3A%2F%2Fmastodon.social&style=social&logo=Mastodon&logoColor=blue&labelColor=%23282a36&link=https%3A%2F%2Fmastodon.social%2Finvite%2F9fsWtQxj)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/000773410?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue&labelColor=%23282a36&link=https%3A%2F%2Fmastodon.social%2Finvite%2F9fsWtQxj)
 
 # Open source software projects
 
