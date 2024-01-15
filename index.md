@@ -31,6 +31,8 @@ All these projects are for use in a terminal emulator, because that's where I sp
 - Python script to scrape website content and parse the relevant content into a Pandas dataframe to display to the user.
 - Script can be modified to display the prayer times from any location.
 - Instructions and Dependencies to get the script working, can be found [here](https://github.com/RastalDev/prayer_times#necessary-python-libraries-which-must-be-installed-to-run-the-script)
+- To Download, either clone the repository with git: 
+`git clone https://github.com/RastalDev/prayer_times.git` or [Download the .zip](https://github.com/RastalDev/prayer_times/archive/master.zip) 
 
 ## Example of output when script is run in a terminal emulator
 
@@ -45,6 +47,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 - An auto-correct spelling script for Vim / Neovim using Vim's built-in abbreviations feature.
 - Type an incorrectly spelled word, hit `SPACE` to type the next word and the script will automatically correct the word.
 - Instructions to get the script working in Vim or Neovim, can be found [here](https://github.com/RastalDev/vim_autocorrect#to-use-the-script)
+- To Download, either clone the repository with git: `git clone https://github.com/RastalDev/vim_autocorrect.git` or [Download the .zip](https://github.com/RastalDev/vim_autocorrect/archive/master.zip)
 
 ## Example of script working in Neovim
 
@@ -59,6 +62,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 - `tut` is a terminal user interface for the [Mastodon](https://joinmastodon.org/) social network with vim inspired keys.
 - The `tut` repository, with full install instructions, can be found [here](https://github.com/RasmusLindroth/tut)
 - Instructions to get the Dracula theme working in `tut`, can be found [here](https://draculatheme.com/tut)
+- To Download, either clone the repository with git `git clone https://github.com/dracula/tut.git` or [Download the .zip](https://github.com/dracula/tut/archive/master.zip)
 
 ## Example of Dracula theme in `tut`
 
