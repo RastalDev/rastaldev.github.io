@@ -21,7 +21,7 @@ I'm on Mastodon:
 
 All the code for my projects can be found on [my GitHub.](https://github.com/rastaldev)
 
-![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RastalDev)
 
 All these projects are for use in a terminal emulator, because that's where I spend the majority of my time. I'm not a webdev or professional software developer, but thought it would be useful to create a website just to reference my open source projects in one place. Hopefully, you find something of use to you.
 
@@ -61,7 +61,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 
 # A Dracula theme for `tut`
 
-![mastodon](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)
+[![mastodon](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)](https://joinmastodon.org)
 
 - `tut` is a terminal user interface for the [Mastodon](https://joinmastodon.org/) social network with vim inspired keys.
 - The `tut` repository, with full install instructions, can be found [here](https://github.com/RasmusLindroth/tut)
