@@ -59,9 +59,22 @@ All these projects are for use in a terminal emulator, because that's where I sp
 
 ---
 
+# CURLable Business Card
+
+![curl](https://img.shields.io/badge/curl-yellow?style=for-the-badge&logo=Curl&logoColor=black&color=yellow) ![HTML](https://img.shields.io/badge/html-red?style=for-the-badge&logo=Html&logoColor=black&color=red)
+
+- A business card, accessible via `curl` to display in a terminal emulator.
+- To display my card use: `curl -sL https://bit.ly/rastal99`
+
+## Example of output
+
+![screenshot4](/rastaldev.github.io/assets/images/screenshot4.png)
+
+---
+
 # A Dracula theme for `tut`
 
-[![mastodon](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)](https://joinmastodon.org)
+[![Mastodon](https://img.shields.io/badge/mastodon-blue?style=for-the-badge&logo=Mastodon&logoColor=white&color=blue)](https://joinmastodon.org)
 
 - `tut` is a terminal user interface for the [Mastodon](https://joinmastodon.org/) social network with vim inspired keys.
 - The `tut` repository, with full install instructions, can be found [here](https://github.com/RasmusLindroth/tut)
