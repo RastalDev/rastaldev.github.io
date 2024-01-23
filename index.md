@@ -64,7 +64,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 ![curl](https://img.shields.io/badge/curl-yellow?style=for-the-badge&logo=Curl&logoColor=black&color=yellow) ![HTML](https://img.shields.io/badge/html-red?style=for-the-badge&logo=Html&logoColor=black&color=red)
 
 - A business card, accessible via `curl` to display in a terminal emulator.
-- To display my card use: `curl -sL https://bit.ly/rastal99`
+- To display my card use: `curl -sL bit.ly/rastal99`
 
 ## Example of output
 
