@@ -89,4 +89,6 @@ Notifications blurred for privacy, random toot displayed, no endorsement implied
 
 ---
 
-This website is open source. The code for this website can be found on [GitHub](https://github.com/RastalDev/rastaldev.github.io)
+This website is open source. The code for this website can be found on [GitHub.](https://github.com/RastalDev/rastaldev.github.io)
+
+[![Pages](https://img.shields.io/badge/GitHub%20Pages-Black?style=for-the-badge&logo=GitHub&color=%23161821)](https://github.com/RastalDev/rastaldev.github.io)
