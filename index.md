@@ -55,7 +55,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 
 ## Example of script working in Neovim
 
-![screenshot2](/rastaldev.github.io/assets/images/screenshot.gif)
+![screenshot.gif](/rastaldev.github.io/assets/images/screenshot.gif)
 
 ---
 
@@ -68,7 +68,7 @@ All these projects are for use in a terminal emulator, because that's where I sp
 
 ## Example of output
 
-![screenshot4](/rastaldev.github.io/assets/images/screenshot4.png)
+![screenshot2](/rastaldev.github.io/assets/images/screenshot2.png)
 
 ---
 
