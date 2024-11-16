@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```shell
-#!/usr/bin/env bash
+#!/bin/bash
 
 echo "Hello, my name is Rastal."
 ```
@@ -19,7 +19,7 @@ I'm on Mastodon:
 
 # Open source software projects
 
-All the code for my projects can be found on [my GitHub.](https://github.com/rastaldev)
+All the code for my projects can be found on my GitHub.
 
 [![GitHub badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RastalDev)
 
@@ -89,6 +89,6 @@ Notifications blurred for privacy, random toot displayed, no endorsement implied
 
 ---
 
-This website is open source. The code for this website can be found on [GitHub.](https://github.com/RastalDev/rastaldev.github.io)
+This website is open source. The code for this website can be found on GitHub.
 
 [![Pages](https://img.shields.io/badge/GitHub%20Pages-Black?style=for-the-badge&logo=GitHub&color=%23161821)](https://github.com/RastalDev/rastaldev.github.io)
