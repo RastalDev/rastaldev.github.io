@@ -7,7 +7,7 @@ layout: default
 
 # curl my About Me card in a terminal
 
-printf "Hello, my name is Rastal.\n" && curl -sL https://bit.ly/rastal99
+echo "Hello, my name is Rastal." && curl -sL https://bit.ly/rastal99
 ```
 # About
 
@@ -38,8 +38,8 @@ All these projects are for use in a terminal emulator, because that's where I sp
 - Python script to scrape website content and parse the relevant content into a Pandas dataframe to display to the user.
 - Script can be modified to display the prayer times from any location.
 - Instructions and Dependencies to get the script working, can be found [here](https://github.com/RastalDev/prayer_times#necessary-python-libraries-which-must-be-installed-to-run-the-script)
-- To Download, either clone the repository with git: 
-`git clone https://github.com/RastalDev/prayer_times.git` or [Download the .zip](https://github.com/RastalDev/prayer_times/archive/master.zip) 
+- To Download, either clone the repository with git:
+`git clone https://github.com/RastalDev/prayer_times.git` or [Download the .zip](https://github.com/RastalDev/prayer_times/archive/master.zip)
 
 ## Example of output when script is run in a terminal emulator
 
