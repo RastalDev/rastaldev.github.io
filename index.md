@@ -5,11 +5,14 @@ layout: default
 ```shell
 #!/bin/bash
 
-echo "Hello, my name is Rastal."
+# curl my About Me card in a terminal
+
+printf "Hello, my name is Rastal.\n" && curl -sL https://bit.ly/rastal99
 ```
 # About
 
-![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Linux Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+![Linux Sysadmin Badge](https://img.shields.io/badge/Linux%20Sysadmin-red?style=for-the-badge&logo=linux&logoColor=white)
 
 Computer nerd. Mostly doing Linux systems administration. Software tinkerer. Open source advocate and infosec enthusiast.
 
@@ -56,19 +59,6 @@ All these projects are for use in a terminal emulator, because that's where I sp
 ## Example of script working in Neovim
 
 ![screenshot.gif](/rastaldev.github.io/assets/images/screenshot.gif)
-
----
-
-# CURLable Business Card
-
-![curl](https://img.shields.io/badge/curl-yellow?style=for-the-badge&logo=Curl&logoColor=black&color=yellow) 
-
-- A business card, accessible via `curl` to display in a terminal emulator.
-- To display my card use: `curl -sL bit.ly/rastal99`
-
-## Example of output
-
-![screenshot2](/rastaldev.github.io/assets/images/screenshot2.png)
 
 ---
 
