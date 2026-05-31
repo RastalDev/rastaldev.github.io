@@ -14,7 +14,7 @@ echo "Hello, my name is Rastal." && curl -sL https://bit.ly/rastal99
 ![Linux Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux Sysadmin Badge](https://img.shields.io/badge/Linux%20Sysadmin-red?style=for-the-badge&logo=linux&logoColor=white)
 
-Computer nerd. Mostly doing Linux systems administration. Software tinkerer. Open source advocate and infosec enthusiast.
+Computer nerd. Mostly doing Linux systems administration. Software tinkerer.
 
 I'm on Mastodon:
 
