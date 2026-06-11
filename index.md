@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hello websurfer! I am Rastal and this is my website!
+
 ```shell
 #!/bin/bash
 
